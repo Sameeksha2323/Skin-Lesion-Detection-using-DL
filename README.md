@@ -1,4 +1,4 @@
-# Skin-Lesion-Detection-using-ML
+# Skin-Lesion-Detection-using-DL
 
 Sameeksha  
 2K22/MC/143  
